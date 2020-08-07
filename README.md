@@ -9,6 +9,9 @@ Steps followed IPFS Assignment:
 Output:
 
 ubuntu@ip-XX-XX-XX-XX:/usr/bin$ kubectl exec -it ipfs-deployment-65fc8c8666-w2pcf /bin/bash
+
 root@ipfs-deployment-65fc8c8666-w2pcf:/app# ./main
+
 added :  QmTp2hEo8eXRp6wg7jXv1BLCMh5a4F3B7buAUZNZUu772j
+
 data from cid :  hello world!
