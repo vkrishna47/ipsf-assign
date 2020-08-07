@@ -1,7 +1,5 @@
 FROM golang:latest
 
-# Move to working directory /build
-
 RUN mkdir /app
 COPY main.go /app
 WORKDIR /app
